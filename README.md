@@ -1,3 +1,4 @@
+#please read this in code mode
 1.firstly i created a folder called project inside my bootcamp's workspace
     mkdir project
     cd project
